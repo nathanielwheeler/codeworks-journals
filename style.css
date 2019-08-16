@@ -2,3 +2,11 @@
   color: green;
   background-color: black;
 }
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+.margin-stuff {
+  margin: 2% 15% 2% 15%;
+}
